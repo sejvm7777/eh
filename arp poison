@@ -1,0 +1,12 @@
+Open sniffer in Cain & Abel
+Select "All host in subnet"
+Select ARP
+Click on plus (+) icon
+Select Start/Stop
+
+Open a simple website like :-
+https://testphp.vulnweb.com/login.php
+
+Login with username & password.
+Go to passwords tab in Cain & Abel.
+You will see credentials that you have entered.
