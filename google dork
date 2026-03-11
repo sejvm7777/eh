@@ -1,0 +1,9 @@
+# Perform the following searches in Google :-
+
+"Whoops! there was an error." "db_password"
+inurl:"build.xml" intext:"tomcat.manager.password"
+intext:"login" department|admin|manger
+intitle:"index of" intext:login.csv
+inurl:"admin.php" inurl:admin ext:php
+intitle:"VB viewer"
+ext:env intext:APP_ENV=1 intext:APP_KEY=
