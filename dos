@@ -1,0 +1,10 @@
+Find the system/host IP address (HOST_IP) with following command :-
+> ip config
+
+Open a Windows virutal machine in VMWare and run :-
+> ping <HOST_IP> -t -l 6500
+
+Example :-
+> ping 192.168.2.80 -t -l 6500
+
+Open Resource Monitor or Task Manager and you will see a spike in network usage.
